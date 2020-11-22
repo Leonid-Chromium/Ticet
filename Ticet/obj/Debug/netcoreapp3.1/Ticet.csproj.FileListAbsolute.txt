@@ -1,0 +1,13 @@
+C:\Users\Leonid\source\repos\Ticet\Ticet\obj\Debug\netcoreapp3.1\Ticet.csprojAssemblyReference.cache
+C:\Users\Leonid\source\repos\Ticet\Ticet\obj\Debug\netcoreapp3.1\Ticet.AssemblyInfoInputs.cache
+C:\Users\Leonid\source\repos\Ticet\Ticet\obj\Debug\netcoreapp3.1\Ticet.AssemblyInfo.cs
+C:\Users\Leonid\source\repos\Ticet\Ticet\obj\Debug\netcoreapp3.1\Ticet.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\source\repos\Ticet\Ticet\bin\Debug\netcoreapp3.1\Ticet.exe
+C:\Users\Leonid\source\repos\Ticet\Ticet\bin\Debug\netcoreapp3.1\Ticet.deps.json
+C:\Users\Leonid\source\repos\Ticet\Ticet\bin\Debug\netcoreapp3.1\Ticet.runtimeconfig.json
+C:\Users\Leonid\source\repos\Ticet\Ticet\bin\Debug\netcoreapp3.1\Ticet.runtimeconfig.dev.json
+C:\Users\Leonid\source\repos\Ticet\Ticet\bin\Debug\netcoreapp3.1\Ticet.dll
+C:\Users\Leonid\source\repos\Ticet\Ticet\bin\Debug\netcoreapp3.1\Ticet.pdb
+C:\Users\Leonid\source\repos\Ticet\Ticet\obj\Debug\netcoreapp3.1\Ticet.dll
+C:\Users\Leonid\source\repos\Ticet\Ticet\obj\Debug\netcoreapp3.1\Ticet.pdb
+C:\Users\Leonid\source\repos\Ticet\Ticet\obj\Debug\netcoreapp3.1\Ticet.genruntimeconfig.cache
